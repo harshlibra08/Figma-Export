@@ -1,0 +1,528 @@
+.footer {
+  height: 739px;
+  width: 1440px;
+}
+
+.footer .overlap {
+  height: 739px;
+  position: relative;
+}
+
+.footer .rectangle {
+  background-color: var(--wbsite-bg-1);
+  height: 531px;
+  left: 0;
+  position: absolute;
+  top: 208px;
+  width: 1440px;
+}
+
+.footer .overlap-wrapper {
+  height: 368px;
+  left: 64px;
+  position: absolute;
+  top: 0;
+  width: 1316px;
+}
+
+.footer .overlap-group {
+  height: 368px;
+  position: relative;
+  width: 1312px;
+}
+
+.footer .overlap-group-wrapper {
+  height: 368px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1312px;
+}
+
+.footer .div {
+  height: 368px;
+  position: relative;
+}
+
+.footer .image {
+  background-color: var(--bg-shape-2);
+  border-radius: 2px;
+  height: 312px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 1312px;
+}
+
+.footer .image-wrapper {
+  height: 368px;
+  left: 778px;
+  position: absolute;
+  top: 0;
+  width: 454px;
+}
+
+.footer .img {
+  height: 368px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 454px;
+}
+
+.footer .REQUEST-a-CALL-BACK {
+  color: var(--text-6);
+  font-family: "Open Sans", Helvetica;
+  font-size: 34px;
+  font-weight: 600;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 54.4px;
+  position: absolute;
+  top: 96px;
+  white-space: nowrap;
+}
+
+.footer .group-2 {
+  height: 47px;
+  left: 80px;
+  position: absolute;
+  top: 205px;
+  width: 633px;
+}
+
+.footer .group-3 {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 186px;
+}
+
+.footer .text-wrapper {
+  color: var(--text-6);
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14.9px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.footer .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 184px;
+}
+
+.footer .group-4 {
+  height: 47px;
+  left: 224px;
+  position: absolute;
+  top: 0;
+  width: 186px;
+}
+
+.footer .group-5 {
+  height: 47px;
+  left: 449px;
+  position: absolute;
+  top: 0;
+  width: 186px;
+}
+
+.footer .connect-with-us-to {
+  color: var(--text-6);
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 14.9px;
+  position: absolute;
+  top: 166px;
+  white-space: nowrap;
+}
+
+.footer .group-wrapper {
+  height: 30px;
+  left: 80px;
+  position: absolute;
+  top: 284px;
+  width: 335px;
+}
+
+.footer .group-6 {
+  height: 30px;
+  position: relative;
+  width: 337px;
+}
+
+.footer .i-m-happy-to-recieve {
+  color: var(--text-6);
+  font-family: "Open Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 14.9px;
+  position: absolute;
+  top: 0;
+  width: 303px;
+}
+
+.footer .frame {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.footer .button-filled-large {
+  background-color: var(--text-6);
+  border-radius: 4px;
+  height: 40px;
+  left: 528px;
+  position: absolute;
+  top: 280px;
+  width: 138px;
+}
+
+.footer .div-wrapper {
+  height: 20px;
+  left: 49px;
+  position: relative;
+  top: 10px;
+  width: 46px;
+}
+
+.footer .group-7 {
+  height: 20px;
+  width: 48px;
+}
+
+.footer .overlap-group-2 {
+  height: 20px;
+  position: relative;
+  width: 46px;
+}
+
+.footer .large-roundedbutton {
+  color: var(--wbsite-bg-1);
+  font-family: "Open Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.footer .frame-2 {
+  height: 15px;
+  left: 31px;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.footer .frame-wrapper {
+  height: 148px;
+  left: 672px;
+  position: absolute;
+  top: 487px;
+  width: 284px;
+}
+
+.footer .frame-3 {
+  height: 148px;
+}
+
+.footer .group-8 {
+  height: 235px;
+  left: 28px;
+  position: relative;
+  top: -55px;
+  width: 318px;
+}
+
+.footer .landline {
+  color: transparent;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14.9px;
+  position: absolute;
+  top: 205px;
+  width: 179px;
+}
+
+.footer .span {
+  color: #555459;
+}
+
+.footer .text-wrapper-2 {
+  color: #026dd1;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.footer .mobile {
+  color: transparent;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  position: absolute;
+  top: 130px;
+  width: 284px;
+}
+
+.footer .text-wrapper-3 {
+  color: #026dd1;
+  font-weight: 600;
+}
+
+.footer .email-enquiry {
+  color: transparent;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  position: absolute;
+  top: 55px;
+  width: 310px;
+}
+
+.footer .group-9 {
+  height: 84px;
+  left: 1112px;
+  position: absolute;
+  top: 477px;
+  width: 284px;
+}
+
+.footer .group-10 {
+  height: 235px;
+  left: 144px;
+  position: absolute;
+  top: 432px;
+  width: 184px;
+}
+
+.footer .group-11 {
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.footer .text-wrapper-4 {
+  color: var(--text-6);
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14.9px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.footer .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 0;
+  position: absolute;
+  top: 55px;
+  width: 168px;
+}
+
+.footer .text-wrapper-5 {
+  color: #555459;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14.9px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .text-wrapper-6 {
+  color: #555459;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14.9px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .group-12 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 156px;
+  width: 186px;
+}
+
+.footer .group-13 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 55px;
+  width: 184px;
+}
+
+.footer .group-14 {
+  height: 226px;
+  left: 430px;
+  position: absolute;
+  top: 432px;
+  width: 168px;
+}
+
+.footer .group-15 {
+  height: 226px;
+  position: relative;
+  width: 170px;
+}
+
+.footer .group-16 {
+  height: 267px;
+  left: 1112px;
+  position: absolute;
+  top: 432px;
+  width: 235px;
+}
+
+.footer .element-diamond {
+  color: #555459;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 55px;
+  width: 231px;
+}
+
+.footer .button-filled-large-2 {
+  background-color: var(--text-6);
+  border-radius: 4px;
+  height: 40px;
+  left: 1px;
+  position: absolute;
+  top: 163px;
+  width: 202px;
+}
+
+.footer .group-17 {
+  height: 16px;
+  left: 30px;
+  position: relative;
+  top: 12px;
+  width: 143px;
+}
+
+.footer .group-18 {
+  height: 16px;
+}
+
+.footer .large-roundedbutton-wrapper {
+  height: 16px;
+  position: relative;
+  width: 145px;
+}
+
+.footer .large-roundedbutton-2 {
+  color: var(--wbsite-bg-1);
+  font-family: "Open Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.footer .button-filled-large-3 {
+  background-color: var(--wbsite-bg-1);
+  border: 1px solid;
+  border-color: var(--stroke-1);
+  border-radius: 2px;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 227px;
+  width: 202px;
+}
+
+.footer .group-19 {
+  height: 20px;
+  left: 31px;
+  position: relative;
+  top: 11px;
+  width: 140px;
+}
+
+.footer .group-20 {
+  height: 16px;
+  left: 28px;
+  position: absolute;
+  top: 2px;
+  width: 112px;
+}
+
+.footer .group-21 {
+  height: 16px;
+  position: relative;
+  width: 114px;
+}
+
+.footer .large-roundedbutton-3 {
+  color: var(--text-4);
+  font-family: "Open Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.footer .vector {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}

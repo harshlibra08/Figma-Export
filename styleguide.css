@@ -1,0 +1,13 @@
+:root {
+  --bg-shape-2: rgba(245, 196, 78, 1);
+  --cart-breadcrumb: rgba(0, 147, 221, 1);
+  --fill: rgba(246, 246, 246, 1);
+  --stroke-1: rgba(228, 232, 237, 1);
+  --text-2: rgba(38, 39, 40, 1);
+  --text-3: rgba(85, 84, 89, 1);
+  --text-4: rgba(119, 119, 119, 1);
+  --text-6: rgba(41, 41, 41, 1);
+  --text-7: rgba(65, 65, 65, 1);
+  --wbsite-bg-1: rgba(255, 255, 255, 1);
+  --website-bg-2: rgba(0, 0, 0, 1);
+}

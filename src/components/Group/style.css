@@ -1,0 +1,40 @@
+.group {
+  height: 32px;
+  position: relative;
+}
+
+.group .about-libratherm {
+  color: #ffffff;
+  font-family: "Fjalla One", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+}
+
+.group .line {
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: 27px;
+}
+
+.group.default {
+  width: 80px;
+}
+
+.group.variant-2 {
+  width: 142px;
+}
+
+.group.default .line {
+  width: 50px;
+}
+
+.group.variant-2 .line {
+  width: 120px;
+}
